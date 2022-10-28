@@ -1,3 +1,5 @@
+#### Question 3
+
 Alice and Bob want to renovate an old school in their city.
 There are N classrooms in a school and the ith classroom has a capacity of A[i]
 students. Bob is a builder and follows instructions of Alice.
